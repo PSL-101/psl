@@ -1,1 +1,1 @@
-# psl
+# github -> jira -> slack
