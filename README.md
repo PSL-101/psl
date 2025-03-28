@@ -1,1 +1,1 @@
-# **github -> jira -> slack***
+# **github -> jira -> slack**
